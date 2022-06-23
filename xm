@@ -384,5 +384,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "https://hk1.monika.love/tvba/b/main/xm_20220527.txt"
+  "spider": "https://ivancorn.github.io/xm.jar"
 }
