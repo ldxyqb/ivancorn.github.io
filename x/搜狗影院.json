@@ -24,8 +24,8 @@
   "fubiaotiqian": "class=\"module-item-text\">",
   "fubiaotihou": "</div>",
 
-"sousuoqian": "/search.html?wd=",
-  "sousuohou": "0",
+"sousuoqian": "/search",
+  "sousuohou": ".html?wd=&limit=500",
   "sousuohouzhui": "/detail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
