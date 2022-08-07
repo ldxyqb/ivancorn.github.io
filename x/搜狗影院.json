@@ -1,9 +1,9 @@
 {
 "name": "搜狗影院(官)",
 "url": "http://sogouyy.cn",
-"tihuan": "cnzz.com",
+//"tihuan": "cnzz.com",
   "User": "空",
-  "shouye": "1",
+  //"shouye": "1",
 "fenlei": "电影$/t/dianying/-#电视剧$/t/dianshiju/-#综艺$/t/zongyi/-#动漫$/t/dongman/-#B站$/t/bilibili/",
   "houzhui": ".html",
   "shifouercijiequ": "0",
