@@ -1,5 +1,5 @@
 {
-	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659713026.txt;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
+	"spider": "https://ivancorn.github.io/qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
