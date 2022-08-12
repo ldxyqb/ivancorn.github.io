@@ -290,16 +290,6 @@
       "filterable":0, 
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/hyingku.json"
     }, 
-/*{
-      "key": "csp_xpath_cls",
-      "name": "🍭磁力搜索(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/cls.json"
-    },   */
 {
       "key":"csp_xpath_dingzidy",
       "name":"📌钉子电影(XP)",
