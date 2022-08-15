@@ -5,7 +5,7 @@
 "直接播放": "0",
 "列表显示": "0",
 "横图显示": "0",
-"fenlei": "youtube精选$https://juhuang.tv/type/28_type_#剧集$https://juhuang.tv/type/2_type_#电影$https://juhuang.tv/type/1_type_#综艺$https://juhuang.tv/type/3_type.html?#动漫$https://juhuang.tv/type/4_type_#纪录片$https://juhuang.tv/type/21_type_",
+"fenlei": "youtube精选$type/28_type_#剧集$type/2_type_#电影$type/1_type_#综艺$type/3_type.html?#动漫$type/4_type_#纪录片$type/21_type_",
 "houzhui": ".html",
 "qishiye": "2",
 "shifouercijiequ": "0",
@@ -20,7 +20,7 @@
 "biaotihou": "\"",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
-"ljqianzhui": "https://juhuang.tv",
+"ljqianzhui": "",
 "fubiaotiqian": "<div class=\"module-item-caption\">",
 "fubiaotihou": "</div>",
 "sousuohouzhui": "/play/",
@@ -42,7 +42,7 @@
 "ssbiaotihou": "\"",
 "sslianjieqian": "vod_id\":\"",
 "sslianjiehou": "\"",
-"ssljqianzhui": "https://juhuang.tv/play/",
+"ssljqianzhui": "/play/",
 "ssljhouzhui": "_play_1_1.html",
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
@@ -66,5 +66,5 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
-"bfqianzhui": "https://juhuang.tv"
+"bfqianzhui": ""
 }
