@@ -1,6 +1,6 @@
 {
   "sites": [
-
+{"name":"木子看剧(官)", "url":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
