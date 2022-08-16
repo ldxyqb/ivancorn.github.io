@@ -1,5 +1,22 @@
 {
   "sites": [
+{
+            "key":"多多资源",
+            "name":"多多资源(切)",
+            "type":1,
+            "api":"https://www.ddzyz1.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
+        
+        {
+            "key":"量子资源",
+            "name":"量子资源(切)",
+            "type":1,
+            "api":"http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable":1,
+            "quickSearch":1
+        },
 {"name":"木子看剧(官)", "url":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
