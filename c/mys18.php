@@ -1,22 +1,9 @@
 {
   "sites": [
-{
-            "key":"多多资源",
-            "name":"多多资源(切)",
-            "type":1,
-            "api":"https://www.ddzyz1.com/api.php/provide/vod/",
-            "searchable":1,
-            "quickSearch":1
-        },
-        
-        {
-            "key":"量子资源",
-            "name":"量子资源(切)",
-            "type":1,
-            "api":"http://cj.lziapi.com/api.php/provide/vod/",
-            "searchable":1,
-            "quickSearch":1
-        },
+{"key": "多多1","name": "多多1","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories":[]},
+{"key": "lz","name": "乐猪_T1","type": 1,"api": "http://pandown.pro/maoys/lezhu.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "libvio","name": "LIBVIO_T1","type": 1,"api": "http://pandown.pro/maoys/libvio.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "cokemv","name": "Cokemv_T1","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name":"木子看剧(官)", "url":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
