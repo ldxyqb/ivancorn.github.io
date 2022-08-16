@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key": "多多1","name": "多多1","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories":[]},
+{"key": "多多","name": "多多1","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories":[]},
 {"key": "lz","name": "乐猪_T1","type": 1,"api": "http://pandown.pro/maoys/lezhu.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "libvio","name": "LIBVIO_T1","type": 1,"api": "http://pandown.pro/maoys/libvio.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "cokemv","name": "Cokemv_T1","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -93,12 +93,23 @@
     }
   ],
   "parses": [
-    {"name":"blbo","url":"https://jx.blbo.cc:4433/?url="},
-{"name":"nbjx","url":"https://nbjx.vip/?url="},
-{"name":"178du","url":"http://jx5.178du.com/p1/?url="},
+{"name": "blbo","type": 0,"url":"https://jx.blbo.cc:4433/?url="},
 {"name": "Uyun","type": 0,"url": "http://yyun.22web.org/?url="},
 {"name":"久久","type":0,"url":"http://42.193.18.62:9999/analysis.php?v="},
-{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="}
+{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
+{"name": "七彩", "type": "0", "url": "https://www.xymav.com/?url="},
+{"name": "4kdv", "type": "0", "url": "https://jx.4kdv.com/?url="},
+{"name": "178du","type": 0,"url":"http://jx5.178du.com/p1/?url="},
+{"name": "xixicai", "type": "0", "url": "https://laisoyiba.com/mov/s/?sv=3&url="},
+{"name": "parwix","type": 0,"url":"https://jx.parwix.com:4433/player/?url="},
+{"name": "parwix2","type": 0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+//{"name": "云解析","type": 0,"url":"https://jx.aidouer.net/?url="},
+//{"name":"万能","type":0,"url":"https://vip.legendwhb.cn/m3u8.php?url="},
+//{"name":"全能王","type":0,"url":"https://www.jx.ci/?url="},
+{"name": "VIP解析xl(内)","type":0,"url":"https://wds.ecsxs.com/219244.html?url="},
+//{"name":"118爱优腾","type":0,"url":"http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/?url="},
+//{"name":"无名","type":0,"url":"http://47.100.138.210:92/?url="},
+{"name": "VIP解析","url":"https://wds.ecsxs.com/217915.html?url="}
   ],
   "flags": [
     "youku",
