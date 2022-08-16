@@ -1,6 +1,8 @@
 {
-  "sites": [
+"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;f390d4835a1076e3651d08a2fd0e31ac",
 
+  "sites": [
+{"key": "csp_77"         ,"name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "lz","name": "乐猪_T1","type": 1,"api": "http://pandown.pro/maoys/lezhu.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "libvio","name": "LIBVIO_T1","type": 1,"api": "http://pandown.pro/maoys/libvio.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "cokemv","name": "Cokemv_T1","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -357,6 +359,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://picsum.photos/1080/",
-  "spider": "http://52bsj.vip:81/api/v3/file/get/23451/18.jar?sign=cCPHNxilN-Sc0TrzjkjTyk7vaqnSJYNaj10iyemLalc%3D%3A0"
+  "wallpaper": "https://picsum.photos/1080/"
+  
 }
