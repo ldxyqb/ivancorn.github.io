@@ -1,9 +1,10 @@
 {
   "sites": [
-{"key": "多多","name": "多多1","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories":[]},
+
 {"key": "lz","name": "乐猪_T1","type": 1,"api": "http://pandown.pro/maoys/lezhu.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "libvio","name": "LIBVIO_T1","type": 1,"api": "http://pandown.pro/maoys/libvio.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "cokemv","name": "Cokemv_T1","type": 1,"api": "http://pandown.pro/maoys/cokemv.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "多多","name": "多多1","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories":[]},
 {"name":"木子看剧(官)", "url":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
