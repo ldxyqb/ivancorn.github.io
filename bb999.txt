@@ -152,8 +152,8 @@ https://jx.xuanqi.pro/?url=#
 https://www.nxflv.com/?url=#
 http://47.100.138.210:92/?url=",
 "dianshizhibo": 
-//"aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ=",
-"https://pan.05kr.com/down.php/71aeee8e0901f741c3e69640ebd725d3.txt&830310",
+"aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ=",
+//"https://pan.05kr.com/down.php/71aeee8e0901f741c3e69640ebd725d3.txt&830310",
 //"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biutv2.json",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
