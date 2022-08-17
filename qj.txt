@@ -88,6 +88,17 @@
 	"jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d"
 	},
 	{
+            "key":"csp_hbys",
+            "name":"简影(SP)",
+            "type":3,
+            "api":"csp_JianYing",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q",
+	   "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d" 
+        },
+	{
 		"key": "360_spider",
 		"name": "🐞360影视",
 		"api": "csp_SP360",
