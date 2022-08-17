@@ -125,7 +125,7 @@
             "quickSearch":1,
             "filterable":0,
 	    "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d"
-        }
+        },
 	{
 		"key": "csp_LibVio",
 		"name": "🐞LibVio",
