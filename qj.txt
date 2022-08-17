@@ -75,7 +75,19 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
+	}, 
+	{
+	"key":"csp_293",
+	"name":"293(假)",
+	"api":"csp_SP293",
+	"type":3,
+	"filterable":1,
+	"quickSearch":1,
+	"searchable":1,
+	"ext":"",
+	"jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d"
+	},
+	{
 		"key": "360_spider",
 		"name": "🐞360影视",
 		"api": "csp_SP360",
