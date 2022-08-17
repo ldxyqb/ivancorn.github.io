@@ -92,7 +92,18 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
-	}, {
+	}, 
+	{
+            "key":"csp_DiDuan",
+            "name":"低端影视",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+	    "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d"
+        }
+	{
 		"key": "csp_LibVio",
 		"name": "🐞LibVio",
 		"type": 3,
