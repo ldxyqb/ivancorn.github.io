@@ -2,6 +2,7 @@
 	"spider": "https://gitea.com/ivancorn/jar/raw/branch/main/custom_spider.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6",
 	//"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
