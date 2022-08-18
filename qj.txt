@@ -1,5 +1,6 @@
 {
 	"spider": "https://gitea.com/ivancorn/jar/raw/branch/main/custom_spider.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6",
+	//"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
@@ -78,7 +79,7 @@
 	}, 
 	{
 	"key":"csp_293",
-	"name":"293(假)",
+	"name":"🐞293",
 	"api":"csp_SP293",
 	"type":3,
 	"filterable":1,
@@ -89,7 +90,7 @@
 	},
 	{
             "key":"csp_hbys",
-            "name":"简影(SP)",
+            "name":"🐞简影(SP)",
             "type":3,
             "api":"csp_JianYing",
             "searchable":1,
@@ -118,7 +119,7 @@
 	}, 
 	{
             "key":"csp_DiDuan",
-            "name":"低端影视",
+            "name":"🐞低端影视",
             "type":3,
             "api":"csp_Ddrk",
             "searchable":1,
