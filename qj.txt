@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitea.com/ivancorn/jar/raw/branch/main/custom_spider.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6",
+	"spider": "https://gitea.com/ivancorn/jar/raw/branch/main/custom_spider.jpg;md5;5e9146c8af3b4ebd27d112d2b6d2d6d4",
 	
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	
