@@ -86,8 +86,7 @@
 	"filterable":1,
 	"quickSearch":1,
 	"searchable":1,
-	"ext":"",
-	"jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;bac4507abde7c9d6886e14b5e00bc80d"
+	"ext":""
 	},
 	{
             "key":"csp_hbys",
