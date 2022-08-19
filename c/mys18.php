@@ -1,6 +1,6 @@
 {
-//"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/cszy.html;md5;381a02b64a5bd9853369369c335b8018",
-   "spider":"https://ivancorn.github.io/XC0817.jar;md5;5d578b37a92e7c6ad0987ebc57e83e60",
+"spider":"https://ivancorn.github.io/cszy.html;md5;381a02b64a5bd9853369369c335b8018",
+
 
 
   "sites": [
