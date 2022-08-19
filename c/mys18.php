@@ -1,5 +1,5 @@
 {
-"spider":"https://ivancorn.github.io/cszy.html;md5;381a02b64a5bd9853369369c335b8018",
+"spider":"https://gitea.com/ivancorn/jar/raw/branch/main/cszy.html;md5;381a02b64a5bd9853369369c335b8018",
 
 
 
