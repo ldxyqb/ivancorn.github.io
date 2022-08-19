@@ -1,5 +1,5 @@
 {
-"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;f390d4835a1076e3651d08a2fd0e31ac",
+"spider":"https://gitea.com/lucky/P/raw/branch/master/jar/cszy.html;md5;381a02b64a5bd9853369369c335b8018",
 
   "sites": [
 {"key": "csp_77"         ,"name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
