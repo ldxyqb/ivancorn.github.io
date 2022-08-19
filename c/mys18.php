@@ -357,7 +357,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "wallpaper": "https://picsum.photos/1080/"
-  
+  ]  
 }
