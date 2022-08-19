@@ -45,6 +45,8 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key": "Nfyun", "name": "🐞Nf云", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
+{"key": "csp_555"       ,"name":"🐞555","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ivancorn.github.io/555.jar"},
 //{"key":"csp_Yisou","name":"🤡易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/1.jar;md5;6ebe9e6bdced846cca3421cdd09d58d3"},
 /*{"key": "csp_BBB","name":"🅱️哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/Bili.json"},
 {"key": "csp_Blixs","name":"🈴相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
