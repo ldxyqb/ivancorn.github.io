@@ -1,6 +1,5 @@
 {
-	"spider": "https://gitea.com/ivancorn/jar/raw/branch/main/custom_spider.jpg;md5;aa7587220ff66f25b923a8cfa43f5713",
-	
+	"spider": "https://ivancorn.github.io/jar/ggtv.jar;md5;946a5d766c41e9c9c24c5b879f9bf7da",	
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	
 	"lives": [{
