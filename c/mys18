@@ -1,7 +1,5 @@
 {
-"spider":"https://gitea.com/ivancorn/jar/raw/branch/main/cszy.html;md5;381a02b64a5bd9853369369c335b8018",
-
-
+"spider":""spider":""spider":"https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/jar/0822.jar",
 
   "sites": [
 {"key": "csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
