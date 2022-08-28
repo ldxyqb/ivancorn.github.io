@@ -3,7 +3,6 @@
 //"spider": "https://ivancorn.github.io/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356",
   "sites": [
 {"key": "csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Alist218","name":"🐞Alist18(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://ivancorn.github.io/alist.jar","ext":"https://drive.9t.ee"},
 {"key":"csp_Bttoo" ,"name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Lezhu_spider","name": "🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 //{"key": "293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -22,7 +21,7 @@
 {"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},{"key": "多多","name": "多多","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/","playUrl": "","searchable": 1,"filterable": 1,"categories":[]},
 //{"key": "T4","name": "T4爬虫集","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"t4public", "name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", "searchable":1, "quickSearch":1,"filterable":0},
-
+{"key":"csp_Alist218","name":"🐞Alist18(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://ivancorn.github.io/alist.jar","ext":"https://drive.9t.ee"},
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
