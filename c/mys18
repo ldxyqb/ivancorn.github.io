@@ -1,5 +1,5 @@
 {
-//"spider": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356",
+//"spider": "https://gitea.com/ivancorn/pandora2277/raw/branch/main/custom_spider.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9",
 "spider": "https://ivancorn.github.io/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356",
   "sites": [
 {"key": "csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
