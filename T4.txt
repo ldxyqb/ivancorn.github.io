@@ -4,15 +4,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "sites": [
-{
-      "key": "注视",
-      "name": "注视",
-      "type": 4,
-      "api": "https://t4.catvod.eu.org/catvod/gaze",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key":"Lezhu_spider","name": "🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
     { 
        "key": "t4public",
        "name":"T4公共(不支持bdys)",
