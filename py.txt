@@ -10,27 +10,6 @@
 		"filterable": 1,
 		"ext": "https://ivancorn.github.io/py/plugin/py_zxzj.py"
 	},  
-{
-		"key": "py_cctv",
-		"name": "央视",
-		"type": 3,
-		"api": "py_cctv",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://ivancorn.github.io/py/plugin/py_cctv.py"
-	},
-	
-{
-		"key": "py_libvio",
-		"name": "Libvio",
-		"type": 3,
-		"api": "py_libvio",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://ivancorn.github.io/py/plugin/py_libvio.py"
-	},  
 
 
 {
