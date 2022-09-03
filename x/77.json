@@ -15,7 +15,7 @@
 "biaotihou": "\"",
 "lianjieqian": "id\":",
 "lianjiehou": "\"",
-"ljqianzhui": "http://api.kunyu77.com/api.php/provide/videoPlaylist?ids=",
+"ljqianzhui": "http://api.kunyu77.com/api.php/provide/videoPlaylist?&version=2.0.4&sj=1662174892&ids=",
 "ljhouzhui": "空",
 "fubiaotiqian": "msg\":\"",
 "fubiaotihou": "\"",
