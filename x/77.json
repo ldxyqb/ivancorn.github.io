@@ -1,6 +1,6 @@
 {"name": "七七测试",
 "url": "",
-"ua": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; MI 9 Build/LMY48Z)",
+"ua": "Dalvik/2.1.0",
 "User": "空",
 "fenlei": "热播推荐$http://api.kunyu77.com/api.php/provide/homeBlock?type_id=0pagenum=&#电视剧$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=2&pagenum=#电影$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=1&pagenum=#综艺$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=3&pagenum=#动漫$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=4&pagenum=",
 "houzhui": "&pagesize=24",
