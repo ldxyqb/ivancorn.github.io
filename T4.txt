@@ -5,6 +5,7 @@
 
 "sites": [
 {"key":"Lezhu_spider","name": "🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
+{ "key": "T4", "name": "T4爬虫","type": 4, "api": "http://120.53.102.254/t4/t4yun",  "searchable": 1,"quickSearch": 1,"filterable": 1 },
     { 
        "key": "t4public",
        "name":"T4公共",
