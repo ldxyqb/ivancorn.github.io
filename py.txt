@@ -10,7 +10,7 @@
 		"filterable": 1,
 		"ext": "https://ivancorn.github.io/py/plugin/py_zxzj.py"
 	},  
-{ "key": "T4", "name": "T4爬虫","type": 4, "api": "http://120.53.102.254/t4/t4yun",  "searchable": 1,"quickSearch": 1,"filterable": 1 },
+{"key":"t4public", "name":"🏡豆瓣首页","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10", "searchable":1, "quickSearch":1,"filterable":0},
 
 {
 		"key": "py_czspp",
