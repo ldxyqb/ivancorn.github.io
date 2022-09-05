@@ -1,5 +1,5 @@
 {
-"spider": "https://gitea.com/ivancorn/pandora2277/raw/branch/main/custom_spider.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9",
+ "spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;a37cc2d2ea049fdb3e6791f57cbd3ebe",
 
   "sites": [
 {"key": "csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
